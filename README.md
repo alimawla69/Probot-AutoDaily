@@ -8,6 +8,7 @@
 
 * It's for education, I won't be responsible for any action you take with this script.
 * Don't forget to give the project a star!
+* Loved the tool? Please consider [Donate 💸](https://www.patreon.com/alimawla69) to help it improve!
 ## FEATURES:
 - A system to keep it alive
 - Proxy support (Premium)
