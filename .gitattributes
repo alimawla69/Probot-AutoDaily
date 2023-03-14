@@ -1,1 +1,2 @@
-static/* linguist-vendored
+*.batchfile linguist-detectable=false
+*.js linguist-detectable=true
