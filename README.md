@@ -3,7 +3,7 @@
   <a href="https://github.com/Probot-AutoDaily/stargazers"><img src="https://img.shields.io/github/stars/alimawla69/Probot-AutoDaily?style=flat" /></a>
   <a href="https://github.com/Probot-AutoDaily"><img src="https://visitor-badge.laobi.icu/badge?page_id=alimawla69.Probot-AutoDaily" /></a>
  
- tool to automatically claim daily from probot.io.
+A tool to automatically claim daily from probot.io.
  It works just use good proxies.
 
 * It's for education, I won't be responsible for any action you take with this script.
