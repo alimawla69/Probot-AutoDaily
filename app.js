@@ -25,7 +25,7 @@ const uniqueTokens = [...new Set(tokens)];
 async function daily(token) {
     if (!dailyedtokens.includes(token)) {
         dailyedtokens.push(token)
-        puppeteer.launch({ headless: false }).then(async browser => {
+        puppeteer.launch({ headless: true }).then(async browser => {
             const page = (await browser.pages())[0];
             await page.setViewport({
                 width: 1280,
