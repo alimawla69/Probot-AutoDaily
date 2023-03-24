@@ -10,6 +10,8 @@ A tool to automatically claim daily from probot.io.
 * Loved the tool? Please consider [Donate 💸](https://www.patreon.com/alimawla69) to help it improve!
 ## FEATURES:
 - Proxy support (Soon)
+- simple logger
+- auto login and logout after dailying
 - Captcha solver using (2captcha)
 - Simple to use just run put tokens and proxies and run `start.bat`
 
