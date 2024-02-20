@@ -31,10 +31,10 @@ git clone https://github.com/alimawla69/Probot-AutoDaily.git
 
 ## Problems, Bugs and Suggestions
 
-in case you saw any Problems, Bugs or having a Suggestions you can  tell me in the [issues](https://github.com/alimawla69/Probot-AutoDaily/issues/new) OR [Discord Server](https://discord.gg/HFZRWUC)
+in case you saw any Problems, Bugs or having a Suggestions you can  tell me in the [issues](https://github.com/alimawla69/Probot-AutoDaily/issues/new) OR [Discord Server](https://discord.gg/fRXckx4r)
 
-and i will fix and your suggetions and tell you in news channel in [Discord Server](https://discord.gg/HFZRWUC)
+and i will fix and your suggetions and tell you in news channel in [Discord Server](https://discord.gg/fRXckx4r)
 
 # Contact
-- [Discord Server](https://discord.gg/HFZRWUC)
+- [Discord Server](https://discord.gg/fRXckx4r)
 - [business.alimawla69@gmail.com](mailto:business.alimawla69@gmail.com)
