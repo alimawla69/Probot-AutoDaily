@@ -1,4 +1,5 @@
 # Probot-AutoDaily
+# This project is not working anymore due to probot stops daily processes
   <a href="https://github.com/alimawla69/Probot-AutoDaily/"><img src="https://img.shields.io/github/last-commit/alimawla69/Probot-AutoDaily?style=flat" /></a>
   <a href="https://github.com/Probot-AutoDaily/stargazers"><img src="https://img.shields.io/github/stars/alimawla69/Probot-AutoDaily?style=flat" /></a>
   <a href="https://github.com/Probot-AutoDaily"><img src="https://visitor-badge.laobi.icu/badge?page_id=alimawla69.Probot-AutoDaily" /></a>
@@ -9,7 +10,6 @@ A tool to automatically claim daily from probot.io.
 * Don't forget to give the project a star!
 * Loved the tool? Please consider [Donate 💸](https://www.patreon.com/alimawla69) to help it improve!
 ## FEATURES:
-- Proxy support (Soon)
 - simple logger
 - auto login and logout after dailying
 - Captcha solver using (2captcha)
@@ -31,10 +31,10 @@ git clone https://github.com/alimawla69/Probot-AutoDaily.git
 
 ## Problems, Bugs and Suggestions
 
-in case you saw any Problems, Bugs or having a Suggestions you can  tell me in the [issues](https://github.com/alimawla69/Probot-AutoDaily/issues/new) OR [Discord Server](https://discord.gg/rr-dev)
+in case you saw any Problems, Bugs or having a Suggestions you can  tell me in the [issues](https://github.com/alimawla69/Probot-AutoDaily/issues/new) OR [Discord Server](https://discord.gg/HFZRWUC)
 
-and i will fix and your suggetions and tell you in news channel in [Discord Server](https://discord.gg/rr-dev)
+and i will fix and your suggetions and tell you in news channel in [Discord Server](https://discord.gg/HFZRWUC)
 
 # Contact
-- [Discord Server](https://discord.gg/rr-dev)
+- [Discord Server](https://discord.gg/HFZRWUC)
 - [business.alimawla69@gmail.com](mailto:business.alimawla69@gmail.com)
